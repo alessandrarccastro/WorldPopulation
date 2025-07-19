@@ -1,4 +1,4 @@
-🌍 World Population Analysis - Part 2
+# 🌍 World Population Analysis - Part 2
 This repository contains a dataset and Tableau visualizations focused on global population trends. The goal is to explore how population figures have evolved over time across countries, regions, and development categories.
 
 📂 Files
